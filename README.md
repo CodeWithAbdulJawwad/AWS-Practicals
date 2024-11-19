@@ -8,7 +8,7 @@ This repository contains practical exercises and examples related to AWS service
 - [EC2 (Elastic Compute Cloud)](#ec2-elastic-compute-cloud)
 - [S3 (Simple Storage Service)](#s3-simple-storage-service)
 - [Athena](#athena)
-- [Lambda](#lambda)
+- [Lambda](https://github.com/CodeWithAbdulJawwad/AWS-Practicals/tree/6ea4079c5407629fb74c07a95fe45934232e23bc/AWS%20Lamda)
 - [DMS (Database Migration Service)](#dms-database-migration-service)
 
 ---
